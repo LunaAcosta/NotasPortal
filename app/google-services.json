@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416999605495",
+    "firebase_url": "https://portal-estudiante-f5b7e-default-rtdb.firebaseio.com",
+    "project_id": "portal-estudiante-f5b7e",
+    "storage_bucket": "portal-estudiante-f5b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416999605495:android:d8a3b5eb899453a8b3fff2",
+        "android_client_info": {
+          "package_name": "com.example.notasdelestudiante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416999605495-prmfmmdtpdbm31jsvb8unfnhkj46t173.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw2WQnYMikg5W0nYR_tCZzaMVba0F9KeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416999605495-prmfmmdtpdbm31jsvb8unfnhkj46t173.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
